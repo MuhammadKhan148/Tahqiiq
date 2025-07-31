@@ -1,0 +1,38 @@
+{
+  "seed": 42,
+  "total_samples": 10,
+  "splits": {
+    "train": {
+      "size": 8,
+      "label_distribution": {
+        "0": 4,
+        "1": 4
+      }
+    },
+    "val": {
+      "size": 1,
+      "label_distribution": {
+        "1": 1
+      }
+    },
+    "test": {
+      "size": 1,
+      "label_distribution": {
+        "0": 1
+      }
+    }
+  },
+  "original_metadata": {
+    "num_samples": 10,
+    "max_length": 512,
+    "model_name": "nlpaueb/legal-bert-base-uncased",
+    "unique_labels": [
+      0,
+      1
+    ],
+    "label_distribution": {
+      "0": 5,
+      "1": 5
+    }
+  }
+}

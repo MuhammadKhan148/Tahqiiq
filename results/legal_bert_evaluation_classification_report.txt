@@ -1,0 +1,9 @@
+LEGAL-BERT Classification Report
+==================================================
+
+Dataset: test split
+Total samples: 1
+Evaluation date: 2025-07-09T23:38:33.631359
+
+Single sample evaluation:
+True: 0, Predicted: 0, Correct: True

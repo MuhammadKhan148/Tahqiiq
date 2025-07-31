@@ -1,0 +1,2 @@
+metric_type,accuracy,correct_prediction,true_label,predicted_label,total_samples
+single_sample,1.0,True,0,0,1

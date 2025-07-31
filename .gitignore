@@ -1,0 +1,36 @@
+# Virtual Environment
+legal-bert-env/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Large tensor files
+*.pt
+*.bin
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model downloads
+models/downloads/
+
+# Temporary files
+*.tmp
+*.log 

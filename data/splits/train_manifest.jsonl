@@ -1,0 +1,8 @@
+{"id": "train_000000", "original_index": 8, "label": 0, "tensor_path": "train/", "tensor_index": 0}
+{"id": "train_000001", "original_index": 1, "label": 1, "tensor_path": "train/", "tensor_index": 1}
+{"id": "train_000002", "original_index": 5, "label": 1, "tensor_path": "train/", "tensor_index": 2}
+{"id": "train_000003", "original_index": 0, "label": 0, "tensor_path": "train/", "tensor_index": 3}
+{"id": "train_000004", "original_index": 7, "label": 1, "tensor_path": "train/", "tensor_index": 4}
+{"id": "train_000005", "original_index": 2, "label": 0, "tensor_path": "train/", "tensor_index": 5}
+{"id": "train_000006", "original_index": 9, "label": 1, "tensor_path": "train/", "tensor_index": 6}
+{"id": "train_000007", "original_index": 4, "label": 0, "tensor_path": "train/", "tensor_index": 7}

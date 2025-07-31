@@ -1,0 +1,14 @@
+{
+  "accuracy": 1.0,
+  "single_sample_evaluation": true,
+  "correct_prediction": true,
+  "true_label": 0,
+  "predicted_label": 0,
+  "total_samples": 1,
+  "metadata": {
+    "split_name": "test",
+    "total_predictions": 1,
+    "total_ground_truth": 1,
+    "evaluation_date": "2025-07-09T23:38:33.631359"
+  }
+}

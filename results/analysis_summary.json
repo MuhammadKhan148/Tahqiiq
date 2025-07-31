@@ -1,0 +1,27 @@
+{
+  "analysis_date": "2025-07-09T19:53:56.767286",
+  "data_source": "sample",
+  "dataset_info": {
+    "total_samples": 15,
+    "num_classes": 4,
+    "label_distribution": {
+      "Contract": 5,
+      "Agreement": 5,
+      "Case Law": 4,
+      "NDA": 1
+    }
+  },
+  "token_analysis": {
+    "avg_token_length": 25.2,
+    "median_token_length": 25.0,
+    "max_token_length": 35,
+    "min_token_length": 22,
+    "std_token_length": 3.370459909270544,
+    "samples_over_512": 0,
+    "percentage_over_512": 0.0,
+    "recommended_max_length": 30,
+    "percentile_95": 30.099999999999994,
+    "percentile_99": 34.019999999999996
+  },
+  "data_quality": {
+    "missing_text": 
