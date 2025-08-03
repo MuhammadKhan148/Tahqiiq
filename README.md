@@ -10,11 +10,13 @@ A project to build a legal document classifier using LEGAL-BERT with enhanced CU
 - **Advanced Evaluation**: Per-clause detailed metrics and confidence scoring
 - **Improved Training**: Better data collation and validation splits
 
-## Team Structure
+## Team Division
 
-- **Muhammad Abdullah Khan**: Dataset & tokenization pipeline, data splitting, evaluation metrics
-- **Arslan Asad**: Preprocessing, model training, evaluation plots
-- **Aakash Ijaz**: Repo structure, visualizations, logging
+| Name | Registration | Responsibility/Module/Feature |
+|------|-------------|------------------------------|
+| Muhammad Abdullah Khan | 22I-2604 | Backend NLP Processing (All features) |
+| Aakash Ijaz | 22I-2606 | Database and Storage (All features), Admin Panel (All features) |
+| Arslan Asad | 22I-2654 | Client Web App (All features) |
 
 ## Enhanced Components
 
